@@ -25,6 +25,7 @@ Trajectory comparison for each coordinate:
 <img src="https://github.com/user-attachments/assets/24371b82-37ca-40aa-ba20-abf5fc721ca9" width="450" alt="Trajectory comparison for each coordinate">
 
 
-Detailed analysis and results are provided in project_report.pdf file. 
+
+Outlier analysis and its results are comprehensively discussed in project_report.pdf file. 
 
 This work was completed as part of 16-833 Robot Localization and Mapping at Carnegie Mellon University.
