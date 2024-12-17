@@ -6,7 +6,7 @@ This project is based on the MSCKF implementation by [rohiitb](https://github.co
 - Improved feature pruning
 - Analysis of changes on pose estimation accuracy
 
-###Vizualizer (viewer.py)
+### Vizualizer (viewer.py)
 The Pangolin visualizer, originally intended for this project, presents several challenges:
 
 - The Python binding `pypangolin` is not available through pip and requires a complex CMake installation.
