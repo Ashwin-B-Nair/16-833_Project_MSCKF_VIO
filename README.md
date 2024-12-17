@@ -6,7 +6,7 @@ This project is based on the MSCKF implementation by [rohiitb](https://github.co
 - Improved feature pruning
 - Analysis of changes on pose estimation accuracy
 
-### Vizualizer (viewer.py)
+## Vizualizer (viewer.py)
 The Pangolin visualizer, originally intended for this project, presents several challenges:
 
 - The Python binding `pypangolin` is not available through pip and requires a complex CMake installation.
@@ -15,4 +15,12 @@ The Pangolin visualizer, originally intended for this project, presents several 
 - Downgrading these packages leads to further conflicts, making a stable setup difficult to achieve.
 
 To address these issues, the project now uses a custom `viewer.py` file implemented with `matplotlib` and `opencv-python`. This solution provides similar visualization capabilities without the installation and compatibility problems of `pypangolin`.
+
+3D trajectory of EuRoC MH01 
+![Screenshot 2024-12-01 224207](https://github.com/user-attachments/assets/3dbc7303-a64c-480c-bc5e-1c41cba97602)
+
+
+
+
+
 This work was completed as part of 16-833 Robot Localization and Mapping at Carnegie Mellon University.
