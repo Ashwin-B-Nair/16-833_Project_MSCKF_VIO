@@ -19,13 +19,13 @@ To address these issues, the project now uses a custom `viewer.py` file implemen
 3D trajectory of EuRoC MH01:
 
 ![3d_trajectory](https://github.com/user-attachments/assets/4566d1c5-8edf-4f1d-9755-dc96ae610bbb)
-
+<img src="https://github.com/user-attachments/assets/4566d1c5-8edf-4f1d-9755-dc96ae610bbb" width="600" alt="3D trajectory of EuRoC MH01"> 
 
 Trajectory comparison for each coordinate:
 
 ![mh_01_withoutransac](https://github.com/user-attachments/assets/24371b82-37ca-40aa-ba20-abf5fc721ca9)
 
 
-
+Detailed analysis and results are provided in project_report.pdf file. 
 
 This work was completed as part of 16-833 Robot Localization and Mapping at Carnegie Mellon University.
