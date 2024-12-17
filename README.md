@@ -6,4 +6,6 @@ This project is based on the MSCKF implementation by [rohiitb](https://github.co
 - Improved outlier detection methods (RANSAC)
 - Improved feature pruning
 - Analysis of changes on pose estimation accuracy
+
+  
 This work was completed as part of 16-833 Robot Localization and Mapping at Carnegie Mellon University.
