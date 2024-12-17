@@ -17,7 +17,7 @@ The Pangolin visualizer, originally intended for this project, presents several 
 To address these issues, the project now uses a custom `viewer.py` file implemented with `matplotlib` and `opencv-python`. This solution provides similar visualization capabilities without the installation and compatibility problems of `pypangolin`.
 
 3D trajectory of EuRoC MH01 
-![Screenshot 2024-12-01 224207](https://github.com/user-attachments/assets/3dbc7303-a64c-480c-bc5e-1c41cba97602)
+
 
 
 
