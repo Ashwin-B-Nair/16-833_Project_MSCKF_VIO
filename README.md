@@ -28,4 +28,4 @@ Trajectory comparison for each coordinate:
 
 Outlier analysis and its results are comprehensively discussed in project_report.pdf file. 
 
-This work was completed as part of 16-833 Robot Localization and Mapping at Carnegie Mellon University.
+This work was completed as partial fulfillment of the requirements of the course 16-833 Robot Localization and Mapping at Carnegie Mellon University.
